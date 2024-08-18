@@ -20,8 +20,6 @@ public class Booking {
     int noDays;
     float totalPrice = pricePerNight * noDays;
 
-    //Testing the new branch!
-    //Test again.
-    //This should not be in main branch.
-    //Add the branch again
+
+//comment solve.
 }
