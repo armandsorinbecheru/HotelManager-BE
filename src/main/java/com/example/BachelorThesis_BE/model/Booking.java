@@ -21,4 +21,5 @@ public class Booking {
     float totalPrice = pricePerNight * noDays;
 
     //Testing the new branch!
+    //Test again.
 }
