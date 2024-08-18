@@ -20,4 +20,6 @@ public class Booking {
     int noDays;
     float totalPrice = pricePerNight * noDays;
 
+
+    //only one comment in main
 }
