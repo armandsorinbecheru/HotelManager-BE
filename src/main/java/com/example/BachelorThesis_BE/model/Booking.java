@@ -19,4 +19,5 @@ public class Booking {
     float pricePerNight;
     int noDays;
     float totalPrice = pricePerNight * noDays;
+
 }
