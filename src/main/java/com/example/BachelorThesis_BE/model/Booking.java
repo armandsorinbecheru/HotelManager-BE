@@ -16,4 +16,7 @@ public class Booking {
     int id;
     Date startDate;
     Date endDate;
+    float pricePerNight;
+    int noDays;
+    float totalPrice = pricePerNight * noDays;
 }
